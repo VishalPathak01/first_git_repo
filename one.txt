@@ -1,2 +1,0 @@
-hello in the remote one.txt
-updated text
